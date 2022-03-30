@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Record_Heap
 {
-    public class Record
+    public class Record//simple record class
     {
         public int ID { get; set; }
         public string recordName { get; set; }
